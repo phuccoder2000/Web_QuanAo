@@ -1,4 +1,4 @@
-# Web_QuanAo
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/089beb68-d03a-4174-af2b-3b4fd64bd7d9)# Web_QuanAo
 
 ## Mô tả
 
@@ -17,8 +17,39 @@
 ### trang sản phẩm
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/b41f9c93-19d8-41c0-893b-e62a00a4727f)
 
-- cho phép thêm xóa sửa sản phẩm
+- cho phép thêm sản phẩm
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/a0a7151e-8bf6-4948-b94f-126ab04766d2)
+
+- edit sản phẩm
+  ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/d34e9bb8-09ae-4f75-81b8-8b3b79f29242)
+
+
+## Slider
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/36120fd8-c703-4adc-87e3-013b38ec24ed)
+
+- thêm slider
+  ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/c15be002-5ac2-42e5-84ed-17a26fcefc82)
+- edit
+  ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/e062f30c-7e69-4e2d-8ad6-f358365255d9)
+
+
+
+## danh sách nhân viên 
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/ef98f647-591f-4a15-b6a0-98cad993666f)
+
+- thêm xóa sửa ds nhân viên
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/06a558eb-ea3e-4f11-adbb-40cba1bea73c)
+
+
+## danh sách vai trò
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/f83c60d9-b939-484d-9e5b-b023616f1e6c)
+
+- thêm vao trò
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/15ca70be-f708-40b2-ac51-a532ef70b3f9)
+
+
+## Permission 
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/58245413-d5e1-4c5a-bf2b-495e5ec4da0a)
 
 
 
