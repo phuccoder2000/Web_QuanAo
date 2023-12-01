@@ -1,0 +1,13 @@
+.container_image_detail,.feature_image_container{
+    margin-top: 20px;
+}
+.alert-danger{
+    margin-top:15px ;
+    padding: 10px 5px;
+}
+.image_slider{
+    height: 200px;
+    width: 50%;
+    margin-top: 10px;
+    object-fit: cover;
+}
