@@ -1,4 +1,3 @@
-![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/089beb68-d03a-4174-af2b-3b4fd64bd7d9)# Web_QuanAo
 
 ## Mô tả
 
@@ -46,6 +45,11 @@
 
 - thêm vao trò
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/15ca70be-f708-40b2-ac51-a532ef70b3f9)
+
+### user
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/c94f8ee2-b60f-4e81-b5cb-5796805550fc)
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/f81daa51-5fd8-4dfa-aa63-318474d9155c)
+
 
 
 ## Permission 
