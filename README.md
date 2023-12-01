@@ -46,14 +46,16 @@
 - thêm vao trò
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/15ca70be-f708-40b2-ac51-a532ef70b3f9)
 
+
+## Permission 
+![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/58245413-d5e1-4c5a-bf2b-495e5ec4da0a)
+
+
 ### user
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/c94f8ee2-b60f-4e81-b5cb-5796805550fc)
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/f81daa51-5fd8-4dfa-aa63-318474d9155c)
 
 
-
-## Permission 
-![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/58245413-d5e1-4c5a-bf2b-495e5ec4da0a)
 
 
 
