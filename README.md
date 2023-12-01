@@ -1,8 +1,6 @@
 
 ## Mô tả
-
-
-
+ Công nghệ sử dụng framework Laravel xây dựng trang web bán quần áo
 ## Demo
 ### Login admin
 ![image](https://github.com/phuccoder2000/Web_QuanAo/assets/62839458/b40341a6-49ff-4563-a313-d8255f177e00)
